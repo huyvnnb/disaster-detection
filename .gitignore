@@ -1,0 +1,4 @@
+ultralytics_custom/
+
+.venv
+.idea

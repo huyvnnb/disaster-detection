@@ -1,0 +1,9 @@
+train: /content/c2a-dataset/new_dataset3/train/images
+val: /content/c2a-dataset/new_dataset3/val/images
+test: /content/c2a-dataset/new_dataset3/test/images
+
+# Số lượng class
+nc: 1
+
+# Tên các class
+names: ['person']
