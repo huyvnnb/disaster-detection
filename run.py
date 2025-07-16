@@ -1,6 +1,4 @@
-import sys
-from pathlib import Path
-from app.main import run
+from app.main import main
 
 if __name__ == '__main__':
-    run()
+    main()

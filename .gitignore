@@ -2,3 +2,5 @@ ultralytics_custom/
 
 .venv
 .idea
+__pycache__/
+*.pyc
