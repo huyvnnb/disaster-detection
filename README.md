@@ -36,3 +36,23 @@ thay vì cài đặt trực tiếp từ PyPI.
 ```commandline
 python run.py
 ```
+
+## System Design
+![Kiến trúc hệ thống](demo/design.png)
+
+## Phân tích dữ liệu
+![](demo/img_6.png)
+
+# Mô hình huấn luyện
+![](demo/img_4.png)
+![](demo/img_5.png)
+
+## Demo giao diện
+![Giao diện ứng dụng](demo/img.png)
+
+![](demo/img_1.png)
+
+<p align="center">
+  <img src="demo/img_2.png" alt="Image" />
+  <img src="demo/img_3.png" alt="Image" />
+</p>
