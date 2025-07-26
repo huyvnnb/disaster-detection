@@ -1,3 +1,7 @@
+# Thông tin về dự án
+- Bộ dữ liệu: [C2A Dataset: Human Detection in Disaster Scenarios](https://www.kaggle.com/datasets/rgbnihal/c2a-dataset)
+- Kiến trúc: YOLOv8s
+
 # Hướng dẫn cài đặt và chạy dự án
 
 1. **Tạo môi trường**
