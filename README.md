@@ -7,15 +7,9 @@ python -m venv .venv
 ```
 
 
-2. **Cài đặt ultralytics**
-- Vì có một số thay đổi trong source code của YOLO, nên mọi người hãy clone project này về từ github của mình:
-```bash
-git clone https://github.com/huyvnnb/ultralytics.git
+2. **Cài đặt các thư viện cần thiết**
 ```
-- Đổi tên ultralytics thành tên khác, ví dụ ultralytics_custom
-```bash
-cd ultralytics_custom
-pip install -e .
+pip install -r requirements.txt
 ```
 
 **Tại sao lại có phiên bản YOLOv8 tùy chỉnh?**
@@ -27,10 +21,7 @@ thay vì cài đặt trực tiếp từ PyPI.
 
 
 3. **Chạy và xem kết quả**
-- Hãy chỉnh sửa các đường dẫn trong file app/main.py
-  - Ảnh ở trong thư mục: app/images/test
-  - Model: model/custom/best.pt
-  - Kết quả sẽ được show ra ngay lập tức, hoặc bạn có thể lưu vào app/images/result
+- Thao tác trên giao diện người dùng
 
 - Chạy kết quả
 ```commandline
