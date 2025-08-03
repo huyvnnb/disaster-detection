@@ -51,3 +51,30 @@ python run.py
   <img src="demo/img_2.png" alt="Image" />
   <img src="demo/img_3.png" alt="Image" />
 </p>
+
+## Web API và giao diện:
+
+```commandline
+{
+  "success": true,
+  "message": "Xử lý thành công",
+  "data": [
+    {
+      "position": {
+        "xmin": 300,
+        "ymin": 262,
+        "xmax": 321,
+        "ymax": 287
+      },
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.9210671186447144
+    },
+    ...
+  ]
+}
+```
+
+![](demo/img_7.png)
+
+![](demo/img_8.png)
